@@ -1,4 +1,5 @@
 ﻿# 163OpenCourse_playbackRate
+嗷嗷嗷用别人的库做坏事辣~~~·
 利用 html5 video 标签修改网易公开课视频播放速度。
 （仅测试 chrome，因 playbackRate 目前只得到 chrome 及 safari 支持，估计也就只支持这两个）
 
